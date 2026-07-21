@@ -1,0 +1,8 @@
+# Ficheiros compilados e objetos
+*.o
+*.out
+*.exe
+feed
+manager
+.vscode/
+.idea/
